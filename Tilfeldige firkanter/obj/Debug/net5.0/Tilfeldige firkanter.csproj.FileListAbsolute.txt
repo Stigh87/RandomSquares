@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\bin\Debug\net5.0\Tilfeldige firkanter.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\bin\Debug\net5.0\Tilfeldige firkanter.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\bin\Debug\net5.0\Tilfeldige firkanter.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\bin\Debug\net5.0\Tilfeldige firkanter.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\bin\Debug\net5.0\Tilfeldige firkanter.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\bin\Debug\net5.0\ref\Tilfeldige firkanter.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\bin\Debug\net5.0\Tilfeldige firkanter.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\ref\Tilfeldige firkanter.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\Tilfeldige firkanter\Tilfeldige firkanter\obj\Debug\net5.0\Tilfeldige firkanter.genruntimeconfig.cache

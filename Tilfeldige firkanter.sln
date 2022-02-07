@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tilfeldige firkanter", "Tilfeldige firkanter\Tilfeldige firkanter.csproj", "{BDD20923-F9F2-4A06-8DAC-06A4D689BD84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD20923-F9F2-4A06-8DAC-06A4D689BD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD20923-F9F2-4A06-8DAC-06A4D689BD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD20923-F9F2-4A06-8DAC-06A4D689BD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD20923-F9F2-4A06-8DAC-06A4D689BD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6356984F-BD6A-46AD-9F04-A03D7B069EAA}
+	EndGlobalSection
+EndGlobal
